@@ -1,2 +1,1 @@
-# comercializadora-rayuela
-La solución desde el lápiz hasta el tóner 
+https://rayhuela.github.io/comercializadora-rayuela/
